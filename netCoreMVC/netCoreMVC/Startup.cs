@@ -23,6 +23,7 @@ namespace netCoreMVC
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            //test commit from git by Tu
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
